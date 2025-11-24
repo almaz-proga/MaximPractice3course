@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|c:\\users\\almaz\\source\\repos\\maximpractice3course\\maximpractice3course\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|solutionrelative:maximpractice3course\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|c:\\users\\almaz\\source\\repos\\maximpractice3course\\maximpractice3course\\nunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|solutionrelative:maximpractice3course\\nunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|c:\\users\\almaz\\source\\repos\\maximpractice3course\\maximpractice3course\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|solutionrelative:maximpractice3course\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|c:\\users\\almaz\\source\\repos\\maximpractice3course\\maximpractice3course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191D3E86-E4E3-4111-9260-D4EFC03FE783}|MaximPractice3course\\MaximPractice3course.csproj|solutionrelative:maximpractice3course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\README.md",
+              "RelativeDocumentMoniker": "MaximPractice3course\\README.md",
+              "ToolTip": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\README.md",
+              "RelativeToolTip": "MaximPractice3course\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-24T15:16:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\Program.cs",
+              "RelativeDocumentMoniker": "MaximPractice3course\\Program.cs",
+              "ToolTip": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\Program.cs",
+              "RelativeToolTip": "MaximPractice3course\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:54:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\Methods.cs",
+              "RelativeDocumentMoniker": "MaximPractice3course\\Methods.cs",
+              "ToolTip": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\Methods.cs",
+              "RelativeToolTip": "MaximPractice3course\\Methods.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:52:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\NUnitTests.cs",
+              "RelativeDocumentMoniker": "MaximPractice3course\\NUnitTests.cs",
+              "ToolTip": "C:\\Users\\almaz\\source\\repos\\MaximPractice3course\\MaximPractice3course\\NUnitTests.cs",
+              "RelativeToolTip": "MaximPractice3course\\NUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:46:44.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
